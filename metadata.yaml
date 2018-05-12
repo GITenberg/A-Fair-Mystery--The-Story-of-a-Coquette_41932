@@ -1,0 +1,35 @@
+_repo: A-Fair-Mystery--The-Story-of-a-Coquette_41932
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41932-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brame, Charlotte M.
+    aliases:
+    - Braeme, Charlotte Monica
+    - Clay, Bertha M.
+    - Brame, Charlotte Mary
+    birthdate: 1836
+    deathdate: 1884
+    gutenberg_agent_id: '878'
+    url: http://www.gutenberg.org/2009/agents/878
+description: 'Looking for a romance tale that offers more than lingering glances and
+  chest-heaving sighs? Dig into A Fair Mystery by prolific Victorian-era scribe Charlotte
+  M. Brame. This engaging tale offers the best of both worlds: blossoming romance
+  that buds against the unlikely backdrop of a confounding mystery. Whether you''re
+  a mystery maven, a romance fan, or a little of both, this page-turner is sure to
+  please.'
+gutenberg_issued: '2013-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41932'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: 'A Fair Mystery: The Story of a Coquette'
+url: http://www.gutenberg.org/ebooks/41932
